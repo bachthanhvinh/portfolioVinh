@@ -1,0 +1,81 @@
+{
+  "common": {
+    "skip": "Skip to content"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "education": "Education",
+    "contact": "Contact",
+    "menu": "Open menu",
+    "close": "Close menu",
+    "sections": "Sections"
+  },
+  "hero": {
+    "name": "Vinh",
+    "role": "Frontend Developer",
+    "tagline": "I build fast, accessible interfaces with a bit of personality.",
+    "github": "GitHub",
+    "contact": "Contact",
+    "scroll": "Scroll",
+    "study": "Study",
+    "gpa": "GPA",
+    "based": "Location",
+    "location": "Vietnam"
+  },
+  "about": {
+    "title": "About",
+    "bio": "IT student at BIU (2022-2026), aspiring Frontend Developer. Passionate about React/Next.js and UX.",
+    "objective": "Goal: become a professional frontend developer building quality products.",
+    "imageAlt": "Laptop screen showing code",
+    "study": "Study",
+    "gpa": "GPA",
+    "based": "Location",
+    "location": "Vietnam"
+  },
+  "skills": {
+    "title": "Skills",
+    "languages": "Languages",
+    "frontend": "Frontend",
+    "database": "Database",
+    "tools": "Tools",
+    "english": "English"
+  },
+  "projects": {
+    "title": "Projects",
+    "trello": {
+      "name": "Trello Clone",
+      "desc": "Kanban-style task management app."
+    },
+    "quiz": {
+      "name": "Quiz App",
+      "desc": "Quiz app with scoring."
+    }
+  },
+  "education": {
+    "title": "Education",
+    "school": "BIU",
+    "period": "2022-2026",
+    "major": "Information Technology",
+    "gpa": "GPA 3.25"
+  },
+  "contact": {
+    "title": "Contact",
+    "heading": "Let's build something.",
+    "email": "Email",
+    "phone": "Phone",
+    "github": "GitHub",
+    "location": "Location",
+    "mailto": "Send email",
+    "copy": "Copy email",
+    "copied": "Copied",
+    "locationValue": "Vietnam"
+  },
+  "footer": {
+    "rights": "All rights reserved by Vinh.",
+    "builtWith": "Next.js · Tailwind CSS · next-intl",
+    "top": "Back to top"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "common": {
+    "skip": "Bỏ qua đến nội dung"
+  },
+  "nav": {
+    "home": "Trang chủ",
+    "about": "Giới thiệu",
+    "skills": "Kỹ năng",
+    "projects": "Dự án",
+    "education": "Học vấn",
+    "contact": "Liên hệ",
+    "menu": "Mở menu",
+    "close": "Đóng menu",
+    "sections": "Các mục"
+  },
+  "hero": {
+    "name": "Vinh",
+    "role": "Frontend Developer",
+    "tagline": "Tôi làm giao diện web nhanh, dễ dùng và có chút cá tính.",
+    "github": "GitHub",
+    "contact": "Liên hệ",
+    "scroll": "Cuộn",
+    "study": "Học vấn",
+    "gpa": "GPA",
+    "based": "Địa điểm",
+    "location": "Việt Nam"
+  },
+  "about": {
+    "title": "Giới thiệu",
+    "bio": "Sinh viên CNTT tại BIU (2022-2026), định hướng Frontend Developer. Yêu thích React/Next.js và trải nghiệm người dùng.",
+    "objective": "Mục tiêu: trở thành frontend developer chuyên nghiệp, xây dựng sản phẩm chất lượng.",
+    "imageAlt": "Màn hình laptop hiển thị code",
+    "study": "Học vấn",
+    "gpa": "GPA",
+    "based": "Địa điểm",
+    "location": "Việt Nam"
+  },
+  "skills": {
+    "title": "Kỹ năng",
+    "languages": "Ngôn ngữ",
+    "frontend": "Frontend",
+    "database": "Cơ sở dữ liệu",
+    "tools": "Công cụ",
+    "english": "Tiếng Anh"
+  },
+  "projects": {
+    "title": "Dự án",
+    "trello": {
+      "name": "Trello Clone",
+      "desc": "Ứng dụng quản lý công việc kiểu Kanban."
+    },
+    "quiz": {
+      "name": "Quiz App",
+      "desc": "Ứng dụng trắc nghiệm với chấm điểm."
+    }
+  },
+  "education": {
+    "title": "Học vấn",
+    "school": "BIU",
+    "period": "2022-2026",
+    "major": "Công nghệ thông tin",
+    "gpa": "GPA 3.25"
+  },
+  "contact": {
+    "title": "Liên hệ",
+    "heading": "Cùng xây dựng thứ gì đó.",
+    "email": "Email",
+    "phone": "Điện thoại",
+    "github": "GitHub",
+    "location": "Địa điểm",
+    "mailto": "Gửi email",
+    "copy": "Sao chép email",
+    "copied": "Đã sao chép",
+    "locationValue": "Việt Nam"
+  },
+  "footer": {
+    "rights": "Bản quyền thuộc về Vinh.",
+    "builtWith": "Next.js · Tailwind CSS · next-intl",
+    "top": "Lên đầu"
+  }
+}
